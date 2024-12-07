@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@sectionintoc {2}{Background}{8}{0}{2}
+\beamer@sectionintoc {3}{Data}{11}{0}{3}
+\beamer@sectionintoc {4}{Empirical Strategy}{13}{0}{4}
+\beamer@sectionintoc {5}{Results}{14}{0}{5}
+\beamer@sectionintoc {6}{Conclusion}{20}{0}{6}
+\beamer@sectionintoc {7}{Thesis}{21}{0}{7}
